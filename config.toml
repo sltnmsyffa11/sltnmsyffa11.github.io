@@ -1,0 +1,24 @@
+baseURL = "https://hdrmaa.github.io"
+languageCode = "en-us"
+title = "Hendra Manudinata"
+theme = "PaperMod"
+
+[params.profileMode]
+enabled = true
+title = "Hendra Manudinata"
+imageUrl = "https://avatars.githubusercontent.com/u/109848194"
+imageTitle = "Hendra Manudinata"
+imageWidth = 165
+imageHeight = 165
+
+[[params.socialIcons]]
+name = "GitHub"
+url = "https://github.com/hdrmaa"
+
+[[params.socialIcons]]
+name = "Telegram"
+url = "https://t.me/hdrmaa"
+
+[[params.socialIcons]]
+name = "Instagram"
+url = "https://instagram.com/hdrmaa"
