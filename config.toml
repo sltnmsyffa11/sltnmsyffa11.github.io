@@ -20,5 +20,9 @@ name = "Telegram"
 url = "https://t.me/hdrmaa"
 
 [[params.socialIcons]]
+name = "Email"
+url = "mailto:kulo@hendraa.tech"
+
+[[params.socialIcons]]
 name = "Instagram"
 url = "https://instagram.com/hdrmaa"
